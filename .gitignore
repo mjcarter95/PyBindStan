@@ -68,12 +68,12 @@ releasenotes/build
 .pytest_cache
 
 # project-specific
-httpstan/*_pb2.py
-httpstan/*_pb2.pyi
-httpstan/*.pb.cc
-httpstan/*.pb.h
-httpstan/lib
-httpstan/include
-httpstan/stanc
+pybindstan/*_pb2.py
+pybindstan/*_pb2.pyi
+pybindstan/*.pb.cc
+pybindstan/*.pb.h
+pybindstan/lib
+pybindstan/include
+pybindstan/stanc
 doc/openapi.yaml
-httpstan/*.o
+pybindstan/*.o

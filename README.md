@@ -8,18 +8,13 @@ System requirements: Mac or Ubuntu (will extend to Windows soon)
 ### Installation
 
 ```
-git init
-git remote add origin git@github.com:mjcarter95/PyBindStan.git
-git pull origin main
-
-python3 -m venv venv
-source activate venv/bin/activate
-
+git clone https://github.com/mjcarter95/PyBindStan.git
 cd pybindstan
+
 make
 
 python3 -m pip install requirements.txt
-python3 -m pip install -e pybindstan
+python3 -m pip install -e .
 ```
 
 ### Example
