@@ -50,3 +50,6 @@ model.compile()
 y = [1, 2]
 model.log_prob(y)
 ```
+
+### Contributions and Citations
+Please follow the Citation and Contribution guidelines outlined in the HTTPStan repository.
