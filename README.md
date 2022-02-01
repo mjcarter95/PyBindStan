@@ -2,7 +2,7 @@
 PyBindStan is a Python interface to Stan. This package is a boiled down version of [HTTPStan](https://github.com/stan-dev/httpstan) with no REST API.
 
 ### Requirements
-System requirements: Mac or Ubuntu (will extend to Windows soon)
+System requirements: Mac or Ubuntu
 
 
 ### Installation
