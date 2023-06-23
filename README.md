@@ -17,6 +17,8 @@ python3 -m pip install requirements.txt
 python3 -m pip install -e .
 ```
 
+Note, for `make` to run, you must install `curl`, `python3-devtools` and `build-essential`
+
 ### Example
 ```
 from pybindstan.model import Model
