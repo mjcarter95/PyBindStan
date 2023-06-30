@@ -4,12 +4,14 @@ PyBindStan is a Python interface to Stan. This package is a boiled down version 
 ### Requirements
 System requirements: Mac or Ubuntu
 
+- Python3-devtools
+- curl
 
 ### Installation
 
 ```
 git clone https://github.com/mjcarter95/PyBindStan.git
-cd pybindstan
+cd PyBindStan
 
 make
 
